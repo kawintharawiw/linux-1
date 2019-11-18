@@ -1,7 +1,7 @@
 
 
 ### Markdown
-[Link](https://github.com/sampan6108111007/linux/blob/master/กนู.docx.githun.io/)
+[Link](https://sampan6108111007/linux/blob/master/กนู.docx.githun.io/)
 [Link](https://github.com/sampan6108111007/linux/blob/master/)
 [Link](https://github.com/sampan6108111007/linux/blob/master/)
 
